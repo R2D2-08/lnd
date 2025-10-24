@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import Crows from "./Crows";
 import Banner from "./assets/banner.png";
-import Kaapikootam from "./assets/images/kaapikootam.jpeg";
+import Kaapikootam from "./assets/images/kaapikootam2025.jpeg";
 import LNDGroup from "./assets/images/lndGroup.jpeg";
 import NUALS from "./assets/images/NUALS.jpeg";
 import NITCAA from "./assets/images/NITCAA.jpeg";
 import KLF from "./assets/images/KLF.jpeg";
-import Bookclub from "./assets/images/bookclub.jpeg";
+import Bookclub from "./assets/images/bookclub2025.jpeg";
 import { ScrollToPlugin } from "gsap/ScrollToPlugin";
 import gsap from "gsap";
 import "./App.css";
@@ -181,7 +181,7 @@ const App = () => {
         <iframe
           width="560"
           height="315"
-          src="https://www.youtube.com/embed/KKu74oDBVv8?si=NWXw0CO-Dsf6SxH3"
+          src="<sunset by the main>"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
