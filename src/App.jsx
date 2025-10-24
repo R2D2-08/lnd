@@ -109,21 +109,10 @@ const App = () => {
         />
         {/* <h1 className="text-white max-w-[1000px] text-4xl p-5">Welcome to the LnD Inductions 2024</h1> */}
         <img
-          src="./poster.PNG"
+          src="./poster2025.PNG"
           alt="poster"
           className="poster w-[50%] min-w-80 max-w-xl"
         />
-        <iframe
-          width="560"
-          height="315"
-          src="https://www.youtube.com/embed/6ubtZLaKeRE?si=i7big2NN-BgQ2hDz"
-          title="YouTube video player"
-          frameBorder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;"
-          referrerPolicy="strict-origin-when-cross-origin"
-          allowFullScreen
-          className="w-96 p-5"
-        ></iframe>
         <div
           id="page5"
           className="page2 flex items-center justify-center w-screen p-2 pb-0 h flex-col bg-gray-800 text-white"
@@ -134,14 +123,14 @@ const App = () => {
             className="w-max h-max p-5 m-5 text-2xl rounded-[1000px] text-black bg-yellow-400"
             onClick={() => {
               window.location.href =
-                "https://docs.google.com/forms/d/e/1FAIpQLSedM9JyonUvKyib4tN5QzdtYkqjGRrGuZfEXQodzKEJvLOo3A/viewform?usp=sf_link";
+                "https://docs.google.com/forms/d/e/1FAIpQLSewW_IToAEIaRlNLvLIyAiERHFBoQxavQeiH3LlMKXPoqC1xg/viewform?pli=1&pli=1";
             }}
           >
             Fill The Form
           </button>
         </div>
         <h1 className="text-yellow-400 max-w-[1000px] text-2xl w-full text-center  p-1 pt-0">
-          Deadline: Tuesday (8 Oct) - 12 pm
+          Deadline: Wednesday (29th Oct) - 5 pm
         </h1>
         <p className="text-white max-w-[1000px] text-xl  p-5">
           Established in 1961, The Literary and Debating Club (LnD), is the
@@ -327,7 +316,7 @@ const App = () => {
           className="w-max h-max p-5  text-2xl rounded-[1000px] text-black bg-yellow-400"
           onClick={() => {
             window.location.href =
-              "https://docs.google.com/forms/d/e/1FAIpQLSedM9JyonUvKyib4tN5QzdtYkqjGRrGuZfEXQodzKEJvLOo3A/viewform?usp=sf_link";
+              "https://docs.google.com/forms/d/e/1FAIpQLSewW_IToAEIaRlNLvLIyAiERHFBoQxavQeiH3LlMKXPoqC1xg/viewform?pli=1&pli=1";
           }}
         >
           Fill The Form!
